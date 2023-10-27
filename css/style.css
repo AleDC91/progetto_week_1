@@ -76,6 +76,10 @@ h1 {
   margin: 2.2rem;
 }
 
+.first-container button:hover{
+  cursor: pointer;
+}
+
 .central-container {
   padding: 3.5rem 2rem;
   text-align: center;
@@ -173,6 +177,10 @@ address {
   margin: 1.5rem;
 }
 
+
+address a:link{
+  color: #c8e7f0;;
+}
 .cell p,
 .mail p {
   text-decoration: underline;
@@ -192,4 +200,5 @@ address i, address p{
 
 .copyright a{
     color:  #c8e7f0;
+    cursor: pointer;
 }

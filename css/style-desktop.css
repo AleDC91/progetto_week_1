@@ -39,6 +39,10 @@ header img {
   padding-bottom: 15rem;
 }
 
+.first-container button:hover{
+    cursor: pointer;
+}
+
 h1 {
   font-size: 2.5rem;
   padding-top: 15rem;
@@ -190,6 +194,9 @@ footer {
 
 
   }
+  address a:link{
+    color: #c8e7f0;;
+  }
   
   .cell p,
   .mail p {
@@ -221,4 +228,6 @@ footer {
 
 .copyright a{
     color:  #c8e7f0;
+    cursor: pointer;
+
 }
