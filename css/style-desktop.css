@@ -41,11 +41,12 @@ header img {
 
 h1 {
   font-size: 2.5rem;
-  padding-top: 12rem;
+  padding-top: 15rem;
 }
 
 .first-container p {
   padding: 1rem 30rem;
+  font-size: 1.5rem;
 }
 
 .first-container button {
@@ -72,7 +73,7 @@ padding: 7rem;
 .central-container .motivs {
   display: inline-block;
     margin-left: 5rem;
-    margin-right: 10%;
+    margin-right: 12%;
   vertical-align: center;
   float: right;
 
@@ -87,7 +88,7 @@ div.circle-img {
   background-image: url("../images/notebook.jpg");
   background-size: contain;
   vertical-align: center;
-  margin-left: 10% ;
+  margin-left: 12% ;
  
 }
 
